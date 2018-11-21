@@ -44,7 +44,7 @@ bool c_window::_find(item)
         {
             found = true;
             break;
-        
+        }
     } 
     if(found)
     {
