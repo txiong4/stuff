@@ -13,3 +13,5 @@ void swap(const std::string item, Container& container1, Container& container2)
 }
 
 ```
+
+The function above isn't a part of any class. It can simply be an outside function.
